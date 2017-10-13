@@ -1,0 +1,11 @@
+cd desktop
+mkdir GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+touch readme.md
+git status
+git add .
+git status
+touch GitHubRepoAssignment.txt
+git add .
+git commit -m “These are my steps”
